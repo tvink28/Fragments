@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Fragments</string>
+    <string name="task_1">Task 1</string>
+    <string name="task_2">Task 2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fragment_b">Fragment B</string>
+    <string name="fragment_c">Fragment C</string>
+    <string name="back">Back</string>
+    <string name="fragment_a">Fragment A</string>
+    <string name="fragment_d">Fragment D</string>
+    <string name="photo">photo</string>
+    <string name="contact_name">%s %s</string>
+    <string name="contact_phone">%s</string>
+    <string name="first_name">First name (Required)</string>
+    <string name="last_name">Last name (Required)</string>
+    <string name="phone_number">Phone number (Required)</string>
+    <string name="editing_information_about_the_user">Editing information about the User</string>
+    <string name="save">Save</string>
+    <string name="error_first_name">Please enter first name</string>
+    <string name="error_last_name">Please enter last name</string>
+    <string name="error_phone_number">Please enter phone number</string>
+</resources>
